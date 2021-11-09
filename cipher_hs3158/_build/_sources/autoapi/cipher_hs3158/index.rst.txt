@@ -1,0 +1,23 @@
+:py:mod:`cipher_hs3158`
+=======================
+
+.. py:module:: cipher_hs3158
+
+
+Submodules
+----------
+.. toctree::
+   :titlesonly:
+   :maxdepth: 1
+
+   cipher_hs3158/index.rst
+
+
+Package Contents
+----------------
+
+.. py:data:: __version__
+   
+
+   
+
