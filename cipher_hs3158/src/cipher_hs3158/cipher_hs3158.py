@@ -19,8 +19,8 @@ def cipher(text, shift, encrypt=True):
     Input: cipher('hello', 1, True)
     Output: 'ifmmp'
     
-    Input: cipher('hello', 1, False)
-    Output: 'gdkkn'
+    Input: cipher('ifmmp', 1, False)
+    Output: 'hello'
     
     """
     alphabet = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
